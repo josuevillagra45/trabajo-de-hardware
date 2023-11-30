@@ -86,7 +86,9 @@ En resumen, usar la resolución nativa de un monitor es esencial para garantizar
 imagen, claridad, comodidad y rendimiento general. Utilizar una resolución diferente puede 
 degradar la experiencia visual y causar fatiga ocular, lo que es especialmente importante en 
 entornos de trabajo y entretenimiento.
+
 8
+
 Una tecnología emergente en el campo de las tarjetas de video que se espera tenga un impacto 
 significativo en la industria es la tecnología de trazado de rayos (ray tracing).
 El trazado de rayos es una técnica de renderizado que simula cómo la luz interactúa con los 
@@ -107,7 +109,9 @@ A medida que esta tecnología se vuelve más accesible y se integra en más disp
 que tenga un impacto significativo en la forma en que se crean y consumen contenidos visuales. El 
 trazado de rayos está cambiando la forma en que se representa la realidad virtual y está llevando 
 la calidad visual a un nivel completamente nuevo.
+
 9
+
 "Los 3v principales los podemos ver como: +3VALW, +3VO, +3VPCU, etc.
 "El boton de encendido: NBSWON#, PWRSW-EC#,PWRBTN#, ON/OFF#,etc.
 "Deteccion del cargador: ACCIN, PACIN.
