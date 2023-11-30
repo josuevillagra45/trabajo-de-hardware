@@ -1,4 +1,27 @@
 # trabajo-de-hardware
+
+integrantes:
+
+Josué Villagra
+
+Gastón Brizuela
+
+Sebas arroyo
+
+Santiago Moyano
+
+Luis Pérez
+
+Lucas raya
+
+Lucas romero
+
+Leandro Palavecino
+
+
+
+
+
 1. ¿Qué técnicas se describen en la sección "REFLOW Y REBOWLING"?
 Las técnicas que se presentan en las secciones de REFLOW Y REBOWLING son las siguientes:
 REBOWLING:
