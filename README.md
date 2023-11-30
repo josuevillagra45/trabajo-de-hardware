@@ -11,13 +11,17 @@ Acá se usa la pasta para unir componentes electrónicos a sus patillas de conta
 circuito impreso mediante la aplicación de calor o por etapa de distinta intensidad que pueden ser 
 programadas en máquinas de fabricación también se puede usar la misma estación de calor o una 
 pistola de calor para hacer el REFLOW.
+
 2
+
 El "Regenerador de Disco Duro" es una herramienta que se utiliza para intentar reparar sectores 
 defectuosos en un disco duro. Su función principal es intentar recuperar y reparar sectores 
 dañados, mejorando así el rendimiento y la integridad del disco duro. Sin embargo, es importante 
 tener en cuenta que no siempre es posible reparar completamente un disco duro dañado y en 
 algunos casos puede ser necesario reemplazarlo.
+
 3
+
 Para llevar a cabo el mantenimiento de una laptop, se recomienda:
 1. Limpiar regularmente el polvo y la suciedad de la superficie y los puertos.
 2. Utilizar un programa antivirus y mantenerlo actualizado.
